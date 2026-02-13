@@ -1,22 +1,22 @@
 const CONFIG = {
-nama: "FallZx Store Infinity", // Nama Store
+nama: "Rangga Shop", // Nama Store
 profil: "https://files.catbox.moe/noz0xh.jpg", // Url Profil
 banner: "https://img1.pixhost.to/images/8503/638080415_lily.jpg", // Url Banner 
-tentang: "🌌 FallZx || Fall’Zx Store hadir sebagai solusi digital lengkap untukmu! Kami menyediakan Panel Pterodactyl premium untuk game server, bot hosting, hingga web/app hosting dengan performa cepat dan stabil, Jasa design kreatif seperti logo, banner, hingga UI/UX agar bisnismu lebih profesional, serta Script Bot WhatsApp full fitur dengan menu otomatis, AI chat, downloader, payment, dan fitur premium lainnya. Dengan Harga terjangkau, Support 24/7, dan Layanan berkualitas, FallZx || Fall’Zx Store adalah pilihan terbaik untuk kebutuhan digitalmu! 🚀✨",
+tentang: "🌌 Rangga || Rangga Shop hadir sebagai solusi digital lengkap untukmu! Kami menyediakan Panel Pterodactyl premium untuk game server, bot hosting, hingga web/app hosting dengan performa cepat dan stabil, Jasa design kreatif seperti logo, banner, hingga UI/UX agar bisnismu lebih profesional, serta Script Bot WhatsApp full fitur dengan menu otomatis, AI chat, downloader, payment, dan fitur premium lainnya. Dengan Harga terjangkau, Support 24/7, dan Layanan berkualitas, Rangga || Rangga Shop adalah pilihan terbaik untuk kebutuhan digitalmu! 🚀✨",
 alamat: "Jl. Soekarno, Jakarta, Indonesia",
 sosial_media: {
-  email: "fallzxcoderid@gmail.com", // Email
-  youtube: "@fallzx-features", // YouTube Username 
-  tiktok: "@siapa_2020", // Tiktok Username 
-  whatsapp: "6285813708397", // WhatsApp Number 
-  telegram: "@fallxd671" // Telegram Username
+  email: "ranggacode@gmail.com", // Email
+  youtube: "@rangga_code", // YouTube Username 
+  tiktok: "@rangga_code", // Tiktok Username 
+  whatsapp: "6285122551340", // WhatsApp Number 
+  telegram: "@rangga_code" // Telegram Username
 },
 payment: {
-  dana: "085813708397", // Payment Dana
-  gopay: "085813708397", // Payment Gopay 
-  ovo: "085813708397", // Payment Ovo 
-  qris: "https://img1.pixhost.to/images/8502/638078243_lily.jpg", // Url Qris
-  seabank: "901579014313"
+  dana: "0851-3851-7647", // Payment Dana
+  gopay: "Belum Tersedia", // Payment Gopay 
+  ovo: "0851-4365-3800", // Payment Ovo 
+  qris: "https://files.catbox.moe/xwp0sm.jpg", // Url Qris
+  seabank: "Belum Tersedia"
 },
 telegram_api: {
   bot: "7922145490:AAGoL-B9sGf3VfmK_yVsXf8AbJYALF0pltk", // Token bot father
