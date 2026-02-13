@@ -20,7 +20,7 @@ payment: {
 },
 telegram_api: {
   bot: "8346972163:AAG9H_uuuooDm4s_pofRDJx_hsQptFQNZEs", // Token bot father
-  chatid: "392836663" // ID telegram
+  chatid: "5212889130" // ID telegram
 },
 }
 
