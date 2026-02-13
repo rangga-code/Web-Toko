@@ -19,8 +19,8 @@ payment: {
   seabank: "Belum Tersedia"
 },
 telegram_api: {
-  bot: "8346972163:AAG9H_uuuooDm4s_pofRDJx_hsQptFQNZEs", // Token bot father
-  chatid: "5212889130" // ID telegram
+  bot: "bot8346972163:AAG9H_uuuooDm4s_pofRDJx_hsQptFQNZEs", // Token bot father
+  chatid: "-5212889130" // ID telegram
 },
 }
 
