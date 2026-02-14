@@ -1,7 +1,7 @@
 const CONFIG = {
 nama: "Rangga Shop", // Nama Store
-profil: "https://ibb.co.com/n8f61Ww2", // Url Profil
-banner: "https://ibb.co.com/nN066rj2", // Url Banner 
+profil: "https://i.ibb.co.com/rfMFpWQP/file-00000000ef4c71fd8bd6a655705e515b.png", // Url Profil
+banner: "https://i.ibb.co.com/0RXmmqrN/file-0000000056ac71f8bc6b4f5ea6f48cd0.png", // Url Banner 
 tentang: "🌌 Rangga || Rangga Shop hadir sebagai solusi digital lengkap untukmu! Kami menyediakan Panel Pterodactyl premium untuk game server, bot hosting, hingga web/app hosting dengan performa cepat dan stabil, Jasa design kreatif seperti logo, banner, hingga UI/UX agar bisnismu lebih profesional, serta Script Bot WhatsApp full fitur dengan menu otomatis, AI chat, downloader, payment, dan fitur premium lainnya. Dengan Harga terjangkau, Support 24/7, dan Layanan berkualitas, Rangga || Rangga Shop adalah pilihan terbaik untuk kebutuhan digitalmu! 🚀✨",
 alamat: "Jl. Soekarno, Jakarta, Indonesia",
 sosial_media: {
@@ -15,7 +15,7 @@ payment: {
   dana: "0851-3851-7647", // Payment Dana
   gopay: "Belum Tersedia", // Payment Gopay 
   ovo: "0851-4365-3800", // Payment Ovo 
-  qris: "https://ibb.co.com/n8f61Ww2", // Url Qris
+  qris: "https://i.ibb.co.com/rfMFpWQP/file-00000000ef4c71fd8bd6a655705e515b.png", // Url Qris
   seabank: "Belum Tersedia"
 },
 telegram_api: {
