@@ -1,7 +1,7 @@
         /* Variabel CSS untuk Light dan Dark Mode */
         :root {
-            --primary: #4a6cfa;
-            --secondary: #ff6b6b;
+            --primary: #ff3b3b;
+            --secondary: #ff5c7a;
             --accent: #4ecdc4;
             --success: #00b894;
             --warning: #fdcb6e;
@@ -15,7 +15,7 @@
             --border-color: #dfe6e9;
             --shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
             
-            --header-bg: linear-gradient(135deg, var(--primary), #6c5ce7);
+            --header-bg: linear-gradient(135deg, #b11226, #ff3b3b);
             --footer-bg: #2d3436;
             --footer-text: #f8f9fa;
             
